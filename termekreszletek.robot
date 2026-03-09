@@ -6,7 +6,6 @@ Resource    loginKeywords.robot
 
 *** Test Cases ***
 Termekreszletek
-    Open Browser    https://www.saucedemo.com/    firefox
     Login with standard user
     Termekoldal megnyitása név alapján
     Termekoldal megnyitása kép alapján
